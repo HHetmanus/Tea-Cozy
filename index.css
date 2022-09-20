@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+header {
+    position: fixed;
+    z-index: 30;
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+    
+    
+}
+
+
+.logo {
+    margin:10px;
+}
+.more a {
+    right: 5px;
+}
+.right {
+    
+    
+    text-align: center;
+    float: right;
+    color: seashell;
+    word-spacing: 10px;
+    margin-right: 15px;
+    
+    
+}
+
+.right a {
+    color: seashell;
+    
+}
+
+ul li{
+    display: inline-block;
+    list-style: none;
+    
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.mission {
+    width:1200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: black;   
+}
+.middle {
+    position: relative;
+    text-align: center;
+    width: 1000px;
+    top: 50px;
+}
