@@ -76,12 +76,13 @@ ul li{
     
     display: inline-flex;
     float: left;
-    justify-content: center;
+    
   
     
     
 }
 
 .gallery figcaption {
+  justify-content: center;
   text-align: center;
 }
