@@ -73,6 +73,7 @@ ul li{
 }
 
 .gallery figure {
+    display:table;
     float: left;
 }
 
