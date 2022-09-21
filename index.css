@@ -80,7 +80,7 @@ ul li{
 .gallery figure {
     margin: 10px;
     float: left;
-    jusify-content: center;
+    justify-content: center;
 }
 
 .gallery figcaption {
