@@ -72,10 +72,10 @@ ul li{
     top: 50px;
 }
 
-div figure {
+.gallery figure {
     float: left;
 }
 
-div figcaption {
+.gallery figcaption {
   text-align: center;
 }
