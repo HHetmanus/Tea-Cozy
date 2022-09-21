@@ -74,8 +74,10 @@ ul li{
 
 .gallery figure {
     
+    display: inline-flex;
     float: left;
     justify-content: center;
+  
     
     
 }
