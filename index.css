@@ -75,19 +75,12 @@ ul li{
 .gallery {
   width: 1000px;
 }
+
 .gallery figure {
-    
     float: left;
-    display: inline-flex;
     justify-content: center;
-    
-    
-  
-    
-    
 }
 
 .gallery figcaption {
-  
   text-align: center;
 }
