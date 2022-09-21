@@ -75,3 +75,7 @@ ul li{
 div figure {
     float: left;
 }
+
+div figcaption {
+  text-align: center;
+}
