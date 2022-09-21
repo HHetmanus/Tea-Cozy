@@ -76,6 +76,8 @@ ul li{
     
     float: left;
     justify-content: center;
+    margin: auto;
+    width: 60%;
 }
 
 .gallery figcaption {
