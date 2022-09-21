@@ -72,9 +72,12 @@ ul li{
     top: 50px;
 }
 
+.gallery {
+  width: 1000px;
+}
 .gallery figure {
     
-    width: "1000px";
+   
     display: inline-flex;
     justify-content: center;
     
