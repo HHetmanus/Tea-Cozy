@@ -78,10 +78,9 @@ ul li{
 }
 
 .gallery figure {
-    position: inherit;
     margin: 10px;
-    float: left;
-    justify-content: center;
+   display: flex;
+   flex-direction: row;
 }
 
 .gallery figcaption {
