@@ -78,7 +78,7 @@ ul li{
 }
 
 .gallery figure {
-    position: relative;
+    position: absolute;
     margin: 10px;
     float: left;
     justify-content: center;
