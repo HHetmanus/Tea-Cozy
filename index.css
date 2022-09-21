@@ -78,7 +78,7 @@ ul li{
 }
 
 .gallery figure {
-    position: absolute;
+    position: inherit;
     margin: 10px;
     float: left;
     justify-content: center;
