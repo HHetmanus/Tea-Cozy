@@ -71,3 +71,7 @@ ul li{
     width: 1000px;
     top: 50px;
 }
+
+.caption {
+    text-align: center;
+}
