@@ -75,6 +75,7 @@ ul li{
 .gallery figure {
     
     float: left;
+    justify-content: space-evenly;
 }
 
 .gallery figcaption {
