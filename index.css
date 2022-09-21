@@ -77,7 +77,7 @@ ul li{
 }
 .gallery figure {
     
-   
+    float: left;
     display: inline-flex;
     justify-content: center;
     
