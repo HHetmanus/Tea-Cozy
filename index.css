@@ -72,10 +72,6 @@ ul li{
     top: 50px;
 }
 
-figure img {
-    vertical-align: top;
-}
-figure figcaption {
-   
-    text-align: center;
+div figure {
+    float: left;
 }
