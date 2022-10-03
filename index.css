@@ -86,21 +86,3 @@ ul li{
 .gallery figcaption {
   text-align: center;
 }
-.box {
-  position:relative;
-}
-.first {
-  position: absolute;
-  text-align: center;
-  top: 30px;
-}
-.second {
-  display: inline-block;
-  position: absolute;
-  bottom: 20px;
-}
-.loc {
-  background-color: black;
-  width: 300px;
-  height: 300px;
-}
