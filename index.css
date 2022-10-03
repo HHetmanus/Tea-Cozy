@@ -118,6 +118,10 @@ div .boxes {
   text-align: center;
 }
 
+#image2 {
+  position: relative;
+  text-align: center;
+}
 .text {
   position: absolute;
   top: 50%;
@@ -125,7 +129,4 @@ div .boxes {
   transform: translate(-50%, -50%);
   text-align: center;
 }
-#image2 {
-  position: relative;
-  text-align: center;
-}
+
