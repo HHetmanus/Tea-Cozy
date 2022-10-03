@@ -86,7 +86,9 @@ ul li{
 .gallery figcaption {
   text-align: center;
 }
-
+.boxes {
+  display: inline-block;
+}
 .left1 {
   background-color: black;
   height: 300px;
