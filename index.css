@@ -143,4 +143,6 @@ div .boxes {
   text-align: center;
   height: 200px;
 }
-
+.super {
+  vertical-align: super;
+}
