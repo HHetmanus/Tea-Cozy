@@ -124,12 +124,12 @@ div .boxes {
 }
 .text {
   position: absolute;
-  top: 53%;
+  top: 55%;
   left: 43%;
 }
 .boxes {
   position: absolute;
   top: 70%;
-  left:30%;
+  left:28%;
   text-align: center;
 }
