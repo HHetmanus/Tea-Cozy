@@ -92,5 +92,6 @@ ul li{
 .first {
   position: absolute;
   text-align: center;
+  top: 30px;
 }
 
