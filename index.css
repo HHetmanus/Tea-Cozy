@@ -100,7 +100,7 @@ div .boxes {
   float: left;
   background-color: black;
   height: 300px;
-  width: 33.33%;
+  width: 300px;
   text-align: center;
   margin: 0px 5px;
 }
@@ -108,7 +108,7 @@ div .boxes {
   float: left;
   background-color: black;
   height: 300px;
-  width: 33.33%;
+  width: 300px;
   text-align: center;
   margin: 0px 5px;
 }
@@ -116,7 +116,7 @@ div .boxes {
   float: left;
   background-color: black;
   height: 300px;
-  width: 33.33%;
+  width: 300px;
   text-align: center;
   margin: 0px 5px;
 }
@@ -133,6 +133,6 @@ div .boxes {
 .boxes {
   position: absolute;
   top: 70%;
-  left:15%;
+  
   text-align: center;
 }
