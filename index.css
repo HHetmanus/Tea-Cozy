@@ -95,6 +95,7 @@ ul li{
   top: 30px;
 }
 .second {
+  display: inline-block;
   position: absolute;
   bottom: 20px;
 }
