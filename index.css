@@ -5,7 +5,7 @@
 body {
     font-family: Helvetica;
     font-size: 22px;
-    color: seashell;
+    color: #fff5ee;
     background-color: black;
     opacity: 0.9;
 }
@@ -33,7 +33,7 @@ header {
     
     text-align: center;
     float: right;
-    color: seashell;
+    color: #fff5ee;
     word-spacing: 10px;
     margin-right: 15px;
     
@@ -41,7 +41,7 @@ header {
 }
 
 .right a {
-    color: seashell;
+    color: #fff5ee;
     
 }
 
@@ -85,6 +85,7 @@ ul li{
 
 .gallery figcaption {
   text-align: center;
+  color: #fff5ee;
 }
 
 div .boxes {
@@ -104,6 +105,7 @@ div .boxes {
   width: 300px;
   text-align: center;
   margin-right: 20px;
+  color: #fff5ee;
 }
 .middle1 {
   opacity: 1;
@@ -113,6 +115,7 @@ div .boxes {
   width: 300px;
   text-align: center;
   margin: 0px 20px;
+  color: #fff5ee;
 }
 .right1 {
   opacity: 1;
@@ -122,6 +125,7 @@ div .boxes {
   width: 300px;
   text-align: center;
   margin-left: 20px;
+  color: #fff5ee;
 }
 
 #image2 {
@@ -132,25 +136,30 @@ div .boxes {
   position: absolute;
   top: 55%;
   left: 43%;
+  color: #fff5ee;
 }
 .boxes {
   position: absolute;
   top: 70%;
   left: 10%;
   text-align: center;
+  color: #fff5ee;
 }
 .bottom {
   text-align: center;
+  color: #fff5ee;
   height: 200px;
 }
 .bottom h2 h5 {
   text-align: center;
+  color: #fff5ee;
 }
 .super {
   vertical-align: super;
 }
 
 #footer {
+  color: #fff5ee;
   margin-left: 20px;
   padding-bottom: 30px;
   text-align: left;
