@@ -130,4 +130,5 @@ div .boxes {
 .boxes {
   position: absolute;
   top: 60%;
+  text-align: center;
 }
