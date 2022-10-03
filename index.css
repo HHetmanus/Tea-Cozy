@@ -140,6 +140,8 @@ div .boxes {
   text-align: center;
 }
 .bottom {
-  text-align: center;
   height: 200px;
+}
+.bottom h2 h5 {
+  text-align: center;
 }
