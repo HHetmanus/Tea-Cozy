@@ -102,7 +102,7 @@ div .boxes {
   height: 300px;
   width: 300px;
   text-align: center;
-  margin: 0px 20px;
+  margin-right: 20px;
 }
 .middle1 {
   float: left;
@@ -118,7 +118,7 @@ div .boxes {
   height: 300px;
   width: 300px;
   text-align: center;
-  margin: 0px 20px;
+  margin-left: 20px;
 }
 
 #image2 {
@@ -133,6 +133,6 @@ div .boxes {
 .boxes {
   position: absolute;
   top: 70%;
-  left: 15%;
+  left: 10%;
   text-align: center;
 }
