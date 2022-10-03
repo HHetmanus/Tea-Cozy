@@ -98,3 +98,7 @@ ul li{
   position: absolute;
   bottom: 20px;
 }
+.loc {
+  background-color: black;
+  width: 300px;
+}
