@@ -99,7 +99,7 @@ div .boxes {
 .left1 {
   float: left;
   background-color: black;
-  height: 300px;
+  height: 250px;
   width: 300px;
   text-align: center;
   margin-right: 20px;
@@ -107,7 +107,7 @@ div .boxes {
 .middle1 {
   float: left;
   background-color: black;
-  height: 300px;
+  height: 250px;
   width: 300px;
   text-align: center;
   margin: 0px 20px;
@@ -115,7 +115,7 @@ div .boxes {
 .right1 {
   float: left;
   background-color: black;
-  height: 300px;
+  height: 250px;
   width: 300px;
   text-align: center;
   margin-left: 20px;
