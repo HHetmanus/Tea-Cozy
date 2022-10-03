@@ -95,19 +95,19 @@ ul li{
   float: left;
   background-color: black;
   height: 300px;
-  width: 300px;
+  width: 33.33%;
 }
 .middle1 {
   float: left;
   background-color: black;
   height: 300px;
-  width: 300px;
+  width: 33.33%;
 }
 .right1 {
-  float: right;
+  float: left;
   background-color: black;
   height: 300px;
-  width: 300px;
+  width: 33.33%;
 }
 
 .text {
