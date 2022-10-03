@@ -87,7 +87,9 @@ ul li{
   text-align: center;
 }
 .boxes {
-  display: inline-block;
+        content: "";
+        display: table;
+        clear: both;
 }
 .left1 {
   background-color: black;
