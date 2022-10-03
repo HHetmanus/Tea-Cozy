@@ -149,3 +149,8 @@ div .boxes {
 .super {
   vertical-align: super;
 }
+
+#footer {
+  margin-left: 20px;
+  text-align: left;
+}
