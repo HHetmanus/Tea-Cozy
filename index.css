@@ -92,16 +92,19 @@ ul li{
         clear: both;
 }
 .left1 {
+  float: left;
   background-color: black;
   height: 300px;
   width: 300px
 }
 .middle1 {
+  float: left;
   background-color: black;
   height: 300px;
   width: 300px
 }
 .right1 {
+  float: right;
   background-color: black;
   height: 300px;
   width: 300px
