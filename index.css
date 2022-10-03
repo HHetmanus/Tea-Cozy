@@ -101,18 +101,21 @@ div .boxes {
   background-color: black;
   height: 300px;
   width: 33.33%;
+  text-align: center;
 }
 .middle1 {
   float: left;
   background-color: black;
   height: 300px;
   width: 33.33%;
+  text-align: center;
 }
 .right1 {
   float: left;
   background-color: black;
   height: 300px;
   width: 33.33%;
+  text-align: center;
 }
 
 .text {
