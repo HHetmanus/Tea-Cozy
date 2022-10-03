@@ -127,4 +127,7 @@ div .boxes {
   top: 43%;
   left: 43%;
 }
-
+.boxes {
+  position: relative;
+  top: 47%;
+}
