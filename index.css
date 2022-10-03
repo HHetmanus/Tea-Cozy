@@ -86,3 +86,19 @@ ul li{
 .gallery figcaption {
   text-align: center;
 }
+
+.left1 {
+  background-color: black;
+  height: 300px;
+  width: 300px
+}
+.middle1 {
+  background-color: black;
+  height: 300px;
+  width: 300px
+}
+.right1 {
+  background-color: black;
+  height: 300px;
+  width: 300px
+}
