@@ -119,5 +119,9 @@ div .boxes {
 }
 
 .text {
+  position: absolute;
   text-align: center;
+}
+#image2 {
+  position: relative;
 }
