@@ -86,7 +86,7 @@ ul li{
 .gallery figcaption {
   text-align: center;
 }
-.boxes {
+.boxes::after {
         content: "";
         display: table;
         clear: both;
