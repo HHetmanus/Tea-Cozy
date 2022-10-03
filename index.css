@@ -86,6 +86,11 @@ ul li{
 .gallery figcaption {
   text-align: center;
 }
+
+div .boxes {
+  margin-right: 50px;
+}
+
 .boxes::after {
         content: "";
         display: table;
