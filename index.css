@@ -92,6 +92,7 @@ ul li{
 
 div .boxes {
   margin-right: 50px;
+  color: #fff5ee;
 }
 
 .boxes::after {
